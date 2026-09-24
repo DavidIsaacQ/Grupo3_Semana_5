@@ -1,0 +1,5 @@
+eliminación por ocurrencia y ordenamiento de matriz 3x3
+
+frutas = ["uva", "pera", "uva", "manzana"]
+
+eliminarporocurrencia = (lista, "uva", 2)
